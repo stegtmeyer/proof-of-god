@@ -22,7 +22,7 @@ title: Proof of God
 email: sean.tegtmeyer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
        Explaining how we can know there is an intelligent creator, from what we see has been created.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "proof-of-god" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stego26
 github_username:  stegtmeyer

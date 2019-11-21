@@ -1,0 +1,14 @@
+.bash_logout
+.bashrc
+.bash_history
+.gem
+.gitconfig
+.profile
+.sudo_as_admin_successful
+.viminfo
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.bundle
+vendor

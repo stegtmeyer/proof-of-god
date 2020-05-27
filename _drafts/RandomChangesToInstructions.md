@@ -2,8 +2,8 @@
 layout: post
 ---
 The existence of the animals that make up the animal kindgom is proof for the existence of an intelligent creator, since intelligence is required to create the
-body's that the animals inhabit.  Few doubt that machines of human creation require intelligence to create.  If someone travelled to a distant planet and
-found a machine on the planet surface, the one thing they could be sure of is that intelligence created the machine, even if they knew nothing else of it's origin.  
+bodys that the animals inhabit.  Few doubt that machines of human creation require intelligence to create.  If someone travelled to a distant planet and
+found a machine on the planet surface, the one thing they could be sure of is that intelligence created the machine, even if they knew nothing else of it's origin. 
 Animal body's are arguably machines that are just made of different elements than those that humans typically use to create machines.  So why then do so many believe
 that an intelligent creator is not necessary for the creation of the animal kingdom?  Because the scientists of our day are largely in agreement that current evolution
 theory is sufficient by itself to explain the existence of the animal kingdom.  However, I contend that current evolution theory is incomplete in a critical way that
@@ -15,9 +15,9 @@ natural selection functions as described, i don't believe truly random mutations
 commonly sited explanation.  Imagine making random changes to the instructions for how to build something.  By randomly changing the words or letters, the instructions
 quickly fail to form valid words and sentences, and much less continue to be good instructions for building something.  So, let us consider the human genome.
 
-The total length of the human genome is over 3 billion (3*10^9) base pairs, and there are 4 possible values for each nucleotide (A,G,C,T) in DNA.
-The number of different possible values for a DNA molecule of length 3*10^9 is then calculated to be 4^(3*10^9).  For perspective, this number is much larger than 10^82,
-which is the number of atoms in the visible universe.  Of these 4^(3*10^9) possible values for a DNA molecule of length 3*10^9, what percent do we think would be
+The total length of the human genome is over 3 billion (3\*10^9) base pairs, and there are 4 possible values for each nucleotide (A,G,C,T) in DNA.
+The number of different possible values for a DNA molecule of length 3\*10^9 is then calculated to be 4^(3\*10^9).  For perspective, this number is much larger than 10^82,
+which is the number of atoms in the visible universe.  Of these 4^(3\*10^9) possible values for a DNA molecule of length 3\*10^9, what percent do we think would be
 instructions that would produce a living human body?  I don't know, perhaps .0001%?  But for the sake of making the point, i'll assume a very generous full 1%.  So given
 the 1% assumption we have made, that means the odds of a living child being produced after a single mutation has occurred in either the man or womans sex cell is 1/100.  
 The resultant DNA does not code for a living human being 99/100 times.  Do you see the problem here?  It is not possible that random mutation changes occurred over time to
@@ -27,8 +27,8 @@ The more generations you add, the worse the odds are that humanity survives, and
 is that?  So how is it possible that random mutations (occurring at any part of the DNA) are occurring over time to human DNA?  It's not.
 
 Now I knew for a long time that due to simple explanations as above, we had to be created by intelligence.  But until more recently i wasn't confident in a an
-explanation for how this intelligence accomplished the evolution in the animal kingdom that we have seen over time.  Then i found an article that provided a believable
-explanation <link here>.  The article says that portions of our DNA are protected against change, such that mutations rarely occur there.  And so random mutations
+explanation for how this intelligence accomplished the evolution in the animal kingdom that we have seen over time.  Then i found [this article](https://www.princeton.edu/news/2008/11/10/evolutions-new-wrinkle-proteins-cruise-control-provide-new-perspective?section=topstories) that provided a believable explanation.  The article says that portions of our 
+DNA are protected against change, such that mutations rarely occur there.  And so random mutations
 caused by the environment could only occur in the unprotected areas of the DNA.  Now the article did have a disclaimer at the end that "this in no way suggests that
 we were created by intelligence" or something as such.  Of course i thought that funny, as it was as though they were trying to protect themselves from such perception,
 so that they could get their paper published!  Because sadly now days it seems any experiment that is run whose result implies or suggests the existence of an intelligent
@@ -37,7 +37,7 @@ to get that job, better not mention God in any of your papers, unless it is to d
 
 So of course articles around evolution theory rarely even mention that portions of our DNA are indeed protected from change, surely because of the questions
 that arise when bringing that up.  And of course the creation of protected areas around parts of our DNA could not have been done randomly,
-for the same reason that truly random changes to DNA (occurring at any part) must not be allowed to occur;  Only a very small percentage of the 4^(3*10^9) possible
+for the same reason that truly random changes to DNA (occurring at any part) must not be allowed to occur;  Only a very small percentage of the 4^(3\*10^9) possible
 values our DNA can have will actually result in a living human being.  So our intelligent creator has put protections in place around areas of DNA that can't change,
 so that any random changes made to other areas will still result in a functioning animal. The protective mechanisms can be penetrated by radiation in some cases,
 and in those cases where that happens, real damage is frequently done.  We have seen this in the many fruit fly experiments where radiation was applied to try to observe
